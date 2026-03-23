@@ -1,0 +1,6 @@
+{
+  "title": "PrepShip V2 - React Conversion Challenge",
+  "description": "HTML-based fulfillment management app conversion to React in 2 hours",
+  "template": "react-vite",
+  "tags": ["react", "vite", "challenge", "prepship"]
+}
